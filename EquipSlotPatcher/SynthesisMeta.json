@@ -1,0 +1,8 @@
+{
+  "Nickname": "GripSwitchPatcher",
+  "Visibility": "Visible",
+  "OneLineDescription": "Patch Equipslot of Two-handed weapons for Grip Switch",
+  "LongDescription": "Read one line description",
+  "PreferredAutoVersioning": "LatestTag",
+  "RequiredMods": []
+}
